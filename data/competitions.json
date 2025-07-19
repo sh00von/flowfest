@@ -1,0 +1,358 @@
+{
+  "competitions": [
+    {
+      "id": "poster-presentation",
+      "title": "Poster Presentation",
+      "icon": "Presentation",
+      "objective": "A two-round competition. Round 1: digital poster + abstract. Round 2: campus presentation.",
+      "format": "Two-round (online + offline)",
+      "eligibility": "Open to all students from relevant academic programs.",
+      "category": "Research",
+      "difficulty": "Advanced",
+      "participants": "Individual/Team",
+      "prize": "To be announced",
+      "fee": "299/-",
+      "color": "bg-purple-50 border-purple-200 hover:bg-purple-100",
+      "iconColor": "text-brand-600",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "longDescription": "FlowFest’s flagship academic event highlighting cutting-edge research in water resources and environmental engineering.",
+      "objectives": [
+        "Promote innovative research in water engineering and environmental sciences",
+        "Provide a platform for students to present their findings",
+        "Foster collaboration between academic institutions",
+        "Encourage sustainable solutions to water challenges",
+        "Bridge the gap between research and practice"
+      ],
+      "timeline": [
+        { "time": "09:30 – 10:00", "activity": "Registration & setup" },
+        { "time": "10:00 – 12:00", "activity": "Digital presentation review" },
+        { "time": "12:00 – 13:00", "activity": "Lunch & networking" },
+        { "time": "13:00 – 15:30", "activity": "Final presentations" },
+        { "time": "15:30 – 16:00", "activity": "Expert panel judging" },
+        { "time": "16:00 – 16:30", "activity": "Results & awards" }
+      ],
+      "requirements": [
+        "Original research related to water/environmental engineering (last 2 years)",
+        "Poster size A1 for physical display",
+        "12 min presentation + 8 min Q&A",
+        "All team members must be undergraduate students",
+        "Digital submission deadline: July 25 2025"
+      ],
+      "judging": [
+        "Research originality and innovation (35%)",
+        "Technical accuracy and methodology (25%)",
+        "Presentation clarity (20%)",
+        "Practical impact (15%)",
+        "Poster design (5%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "Trophy + certificate + research grant" },
+        {
+          "position": "Runner-up",
+          "amount": "To be announced",
+          "additional": "Medal + certificate + publication support"
+        },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "Certificate + research resources" }
+      ]
+    },
+
+    {
+      "id": "mapathon-gis",
+      "title": "Mapathon (GIS)",
+      "icon": "Map",
+      "objective": "Time-bound geospatial data-processing challenge using industry-standard GIS software.",
+      "format": "On-campus, time-bound",
+      "eligibility": "Open to all students from relevant programs.",
+      "category": "Technical",
+      "difficulty": "Intermediate",
+      "participants": "Individual",
+      "prize": "To be announced",
+      "fee": "249/-",
+      "color": "bg-emerald-50 border-emerald-200 hover:bg-emerald-100",
+      "iconColor": "text-emerald-600",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "longDescription": "Participants create accurate hydrologic maps and analyses under strict time constraints.",
+      "objectives": [
+        "Develop GIS proficiency",
+        "Produce hydrological and flood-risk maps",
+        "Analyze complex datasets",
+        "Promote tech in water management",
+        "Build rapid problem-solving skills"
+      ],
+      "timeline": [
+        { "time": "09:30 – 10:00", "activity": "Registration & setup" },
+        { "time": "10:00 – 10:45", "activity": "Dataset briefing" },
+        { "time": "10:45 – 16:00", "activity": "Mapping competition" },
+        { "time": "16:00 – 16:30", "activity": "Submission & QC" },
+        { "time": "16:30 – 17:00", "activity": "Expert review & results" }
+      ],
+      "requirements": [
+        "Knowledge of QGIS/ArcGIS",
+        "Laptop (8 GB RAM min.)",
+        "Understanding of hydrologic concepts",
+        "Ability to work under pressure"
+      ],
+      "judging": [
+        "Map accuracy (40%)",
+        "Analysis depth (25%)",
+        "Documentation (20%)",
+        "Innovation (10%)",
+        "Efficiency (5%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "GIS license + advanced training" },
+        { "position": "Runner-up", "amount": "To be announced", "additional": "Technical resources + certification" },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "GIS learning materials" }
+      ]
+    },
+
+    {
+      "id": "mechanics-olympiad-hsc",
+      "title": "Mechanics Olympiad (HSC Syllabus)",
+      "icon": "Calculator",
+      "objective": "Written exam testing Newtonian Mechanics at HSC level.",
+      "format": "On-campus, written",
+      "eligibility": "Restricted to CUET ’24 batch students.",
+      "category": "Academic",
+      "difficulty": "Foundation",
+      "participants": "Individual",
+      "prize": "To be announced",
+      "fee": "149/-",
+      "color": "bg-blue-50 border-blue-200 hover:bg-blue-100",
+      "iconColor": "text-brand-600",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "longDescription": "First-year CUET students demonstrate physics fundamentals.",
+      "objectives": [
+        "Test foundational mechanics knowledge",
+        "Evaluate problem-solving accuracy",
+        "Encourage academic excellence",
+        "Identify talented newcomers",
+        "Build confidence in physics"
+      ],
+      "timeline": [
+        { "time": "09:30 – 10:00", "activity": "Registration & seating" },
+        { "time": "10:00 – 13:00", "activity": "Olympiad examination" },
+        { "time": "13:00 – 14:00", "activity": "Lunch" },
+        { "time": "14:00 – 15:00", "activity": "Answer review (optional)" },
+        { "time": "15:00 – 15:30", "activity": "Results announcement" }
+      ],
+      "requirements": [
+        "Student of CUET ’24 batch",
+        "Student ID required",
+        "Basic calculator allowed",
+        "No external materials"
+      ],
+      "judging": [
+        "Theoretical understanding (40%)",
+        "Problem-solving accuracy (35%)",
+        "Mathematical rigor (15%)",
+        "Time management (10%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "Gold medal + certificate" },
+        { "position": "Runner-up", "amount": "To be announced", "additional": "Silver medal + certificate" },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "Bronze medal + certificate" }
+      ]
+    },
+
+    {
+      "id": "advanced-mechanics-olympiad",
+      "title": "Advanced Mechanics Olympiad (CE Scope)",
+      "icon": "Wrench",
+      "objective": "Advanced mechanics exam focused on civil-engineering applications.",
+      "format": "On-campus, written",
+      "eligibility": "Open to all engineering students.",
+      "category": "Academic",
+      "difficulty": "Advanced",
+      "participants": "Individual",
+      "prize": "To be announced",
+      "fee": "199/-",
+      "color": "bg-orange-50 border-orange-200 hover:bg-orange-100",
+      "iconColor": "text-orange-600",
+      "badgeColor": "bg-orange-100 text-orange-800",
+      "longDescription": "Challenging exam for students with a solid mechanics background.",
+      "objectives": [
+        "Test advanced mechanics knowledge",
+        "Assess application to civil engineering",
+        "Challenge complex problem-solving",
+        "Promote deeper understanding",
+        "Identify exceptional talent"
+      ],
+      "timeline": [
+        { "time": "09:30 – 10:00", "activity": "Registration & seating" },
+        { "time": "10:00 – 13:00", "activity": "Examination" },
+        { "time": "13:00 – 14:00", "activity": "Lunch" },
+        { "time": "14:00 – 15:00", "activity": "Answer review (optional)" },
+        { "time": "15:00 – 15:30", "activity": "Results announcement" }
+      ],
+      "requirements": [
+        "Undergraduate engineering student",
+        "Strong mechanics background",
+        "Student ID required",
+        "Scientific calculator allowed"
+      ],
+      "judging": [
+        "Advanced theory (35%)",
+        "Problem complexity (30%)",
+        "Civil-engineering context (20%)",
+        "Accuracy (15%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "Gold medal + certificate + book prize" },
+        { "position": "Runner-up", "amount": "To be announced", "additional": "Silver medal + certificate" },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "Bronze medal + certificate" }
+      ]
+    },
+
+    {
+      "id": "speed-autocad",
+      "title": "Speed AutoCAD",
+      "icon": "Monitor",
+      "objective": "Fast-paced AutoCAD design challenge.",
+      "format": "On-campus, individual",
+      "eligibility": "Open to all students.",
+      "category": "Design",
+      "difficulty": "Intermediate",
+      "participants": "Individual",
+      "prize": "To be announced",
+      "fee": "199/-",
+      "color": "bg-indigo-50 border-indigo-200 hover:bg-indigo-100",
+      "iconColor": "text-brand-600",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "longDescription": "Tests speed, precision, and adherence to drawing standards in AutoCAD.",
+      "objectives": [
+        "Assess AutoCAD proficiency",
+        "Evaluate speed and accuracy",
+        "Check standards compliance",
+        "Promote CAD skills",
+        "Test time management"
+      ],
+      "timeline": [
+        { "time": "09:30 – 10:00", "activity": "Registration & laptop setup" },
+        { "time": "10:00 – 10:30", "activity": "Software check & briefing" },
+        { "time": "10:30 – 14:30", "activity": "Design challenge" },
+        { "time": "14:30 – 15:00", "activity": "Submission & verification" },
+        { "time": "15:00 – 15:30", "activity": "Judging & results" }
+      ],
+      "requirements": [
+        "Laptop with AutoCAD installed",
+        "Licensed or trial version",
+        "4 GB RAM minimum",
+        "Basic AutoCAD knowledge",
+        "Power adapter"
+      ],
+      "judging": [
+        "Design precision (35%)",
+        "Time compliance (25%)",
+        "Standards adherence (20%)",
+        "Workflow efficiency (15%)",
+        "Creativity (5%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "AutoCAD license + certificate" },
+        { "position": "Runner-up", "amount": "To be announced", "additional": "Design software + certificate" },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "Tech books + certificate" }
+      ]
+    },
+
+    {
+      "id": "urban-architectural-photography",
+      "title": "Urban & Architectural Photography",
+      "icon": "Camera",
+      "objective": "Capture the aesthetics and functionality of civil structures.",
+      "format": "Online submission + on-campus exhibition",
+      "eligibility": "Open to all students.",
+      "category": "Creative",
+      "difficulty": "Beginner",
+      "participants": "Individual",
+      "prize": "To be announced",
+      "fee": "149/-",
+      "color": "bg-pink-50 border-pink-200 hover:bg-pink-100",
+      "iconColor": "text-pink-600",
+      "badgeColor": "bg-pink-100 text-pink-800",
+      "longDescription": "Celebrates engineering design through photography.",
+      "objectives": [
+        "Showcase beauty of civil structures",
+        "Raise infrastructure awareness",
+        "Encourage creative documentation",
+        "Build visual archive",
+        "Promote photography in engineering"
+      ],
+      "timeline": [
+        { "time": "Online", "activity": "Photo submission (Jul 1-25)" },
+        { "time": "09:00 – 17:00", "activity": "Exhibition setup" },
+        { "time": "17:00 – 18:00", "activity": "Judging" },
+        { "time": "18:00 – 19:00", "activity": "Awards" }
+      ],
+      "requirements": [
+        "DSLR/mirrorless/smartphone photos",
+        "Focus on civil/urban themes",
+        "Submit 3–5 high-res images",
+        "Original work only",
+        "Online deadline: Jul 25 2025"
+      ],
+      "judging": [
+        "Technical quality (30%)",
+        "Creativity (25%)",
+        "Theme relevance (20%)",
+        "Storytelling (15%)",
+        "Originality (10%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "Photo gear + exhibition feature" },
+        { "position": "Runner-up", "amount": "To be announced", "additional": "Accessories + certificate" },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "Photo books + certificate" }
+      ]
+    },
+
+    {
+      "id": "documentary",
+      "title": "Documentary",
+      "icon": "Video",
+      "objective": "Create a ≤3-min documentary on the water-crisis theme.",
+      "format": "Online submission + campus screening",
+      "eligibility": "Open to all students.",
+      "category": "Media",
+      "difficulty": "Intermediate",
+      "participants": "Individual/Team",
+      "prize": "To be announced",
+      "fee": "249/-",
+      "color": "bg-cyan-50 border-cyan-200 hover:bg-cyan-100",
+      "iconColor": "text-brand-600",
+      "badgeColor": "bg-cyan-100 text-cyan-800",
+      "longDescription": "Combines filmmaking skills with environmental advocacy.",
+      "objectives": [
+        "Raise awareness of water crises",
+        "Develop storytelling skills",
+        "Encourage creative environmental communication",
+        "Promote understanding of water challenges",
+        "Foster multimedia creation"
+      ],
+      "timeline": [
+        { "time": "Online", "activity": "Video submission (Jul 1-25)" },
+        { "time": "14:00 – 16:00", "activity": "Screening session" },
+        { "time": "16:00 – 17:00", "activity": "Judging" },
+        { "time": "17:00 – 18:00", "activity": "Awards & discussion" }
+      ],
+      "requirements": [
+        "≤3-min video",
+        "Focus on water-crisis theme",
+        "Original HD content (≥1080p)",
+        "Credits + synopsis required",
+        "Online deadline: Jul 25 2025"
+      ],
+      "judging": [
+        "Storytelling (30%)",
+        "Visual quality (25%)",
+        "Theme relevance (20%)",
+        "Impact (15%)",
+        "Technical execution (10%)"
+      ],
+      "prizes": [
+        { "position": "Champion", "amount": "To be announced", "additional": "Video gear + screening rights" },
+        { "position": "Runner-up", "amount": "To be announced", "additional": "Editing software + certificate" },
+        { "position": "2nd Runner-up", "amount": "To be announced", "additional": "Media resources + certificate" }
+      ]
+    }
+  ]
+}
