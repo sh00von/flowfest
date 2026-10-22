@@ -1,22 +1,20 @@
-# FlowFest — Event Management & Ticketing Platform (Next.js, Supabase)
+# FlowFest — Event Management & Ticketing Platform (Next.js, TypeScript)
 
-**FlowFest** is an event management and ticketing platform built with **Next.js (App Router)**, **TypeScript**, and **Supabase**. It provides a data-driven catalog of competitions and events, modern calendar-style date picking, and a polished, animated interface for discovering and managing events.
+**FlowFest** is an event management and ticketing platform built with **Next.js (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS**. It provides a data-driven catalog of competitions and events in a clean, modern interface for discovering what's on and managing event content.
 
 ## Features
 
 - **Competitions & events catalog** — browse competitions powered by structured event data (`data/competitions.json`) with a dedicated `app/competitions` route
-- **Data-driven architecture** — event content is managed as structured data, making it easy to add or update events without touching UI code
-- **Supabase backend** — database and backend services powered by Supabase (`@supabase/supabase-js`)
-- **Rich event UI** — date selection with React Day Picker and date-fns, dialogs, tabs, and labels from Radix UI
-- **Smooth, modern interface** — Framer Motion animations, Lucide icons, and Tailwind CSS styling throughout
+- **Data-driven architecture** — event content is managed as structured JSON data, making it easy to add or update events without touching UI code
+- **Modern App Router structure** — server-rendered pages with reusable components in `components/` and shared utilities in `lib/`
+- **Polished interface** — Tailwind CSS 4 styling with Radix UI primitives, Lucide icons, and CSS animations (`tw-animate-css`)
+- **Fast development workflow** — Turbopack-powered dev server (`next dev --turbopack`)
 
 ## Tech Stack
 
-- **Framework:** Next.js (App Router) + React
+- **Framework:** Next.js 15 (App Router) + React 19
 - **Language:** TypeScript
-- **Backend:** Supabase
-- **Styling & UI:** Tailwind CSS, Radix UI, shadcn/ui
-- **Motion & Dates:** Framer Motion, date-fns, React Day Picker
+- **Styling & UI:** Tailwind CSS 4, Radix UI, Lucide React
 
 ## Getting Started
 
@@ -28,8 +26,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-To connect the backend features, create a Supabase project and add its URL and anon key to a `.env.local` file.
 
 Other scripts:
 
